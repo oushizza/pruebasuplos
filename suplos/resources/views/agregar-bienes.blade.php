@@ -41,7 +41,7 @@
             <input type="number"  id="precio" name="precio">
         </div>
         <div class="flex justify-center flex-col m-2">
-            <button type="submit" class="p-2 bg-blue-500">Buscar</button>    
+            <button type="submit" class="p-2 bg-blue-500">Agregar</button>    
         </div>
     </form>
     

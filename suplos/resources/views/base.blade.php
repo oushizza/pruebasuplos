@@ -14,7 +14,7 @@
         </div>
         <div class="bg-white flex flex-row">
             <div class="w-80 bg-gray-200  p-4 h-screen">
-                <form action="" method="post">
+                <form action="{{ route('filtro-bienes') }}" method="get">
                     @csrf
                     <div class="flex justify-center m-2">
                         Filtros
