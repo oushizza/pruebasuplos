@@ -1,3 +1,20 @@
+datos de coneccion a la bd
+//use el usuario suplo, porque no me dejaba crear un usuario root, el nombre de la base de datos es pruebasuplos
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=pruebasuplos
+DB_USERNAME=suplo
+DB_PASSWORD=example_root_password
+
+//la página está echo con php y laravel, porque me pedi hacer con eloquent, y los frameworks trabajan con ello.
+//realize la parte del crud y el filtro de los bienes
+//la pagina 'mis bienes' muestra los bienes favoritos
+//la pagina 'bienes disponibles' muestra todos los bienes que tiene suplo
+//el filtro puede filtrar,con todos los campos llenados o solo algunos.
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
